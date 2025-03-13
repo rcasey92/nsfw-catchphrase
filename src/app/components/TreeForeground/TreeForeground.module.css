@@ -1,0 +1,22 @@
+.trees {
+    position: absolute;
+    bottom: -4rem;
+  }
+  
+  .left {
+    left: -6rem;
+    bottom: -6rem
+  }
+  
+  .centerLeft {
+    left: 12.5rem;
+  }
+  
+  .centerRight {
+    right: 12.5rem;
+  }
+  
+  .right {
+    right: -6rem;
+    bottom: -6rem
+  }
